@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Swells each word up to half again its size on the loudest syllables, letting it shrink back as the voice drops.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
